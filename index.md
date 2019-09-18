@@ -9,10 +9,10 @@ You gotta start somewhere.
  
 
 #### Classes that might show up on this
-Cs121
-Cs221
-CsHU-253
-Cs250
+Cs121  
+Cs221  
+CsHU-253  
+Cs250  
 
 
 thank you!
